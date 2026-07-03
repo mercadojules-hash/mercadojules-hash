@@ -1,76 +1,130 @@
-# Hi, I'm Jules Mercado 👋
+<img width="1774" height="887" alt="AI Builder Portfolio Layout" src="https://github.com/user-attachments/assets/1fb7c139-e63d-4fbc-9867-f5df478f126a" />
 
-## AI Builder • Product Developer • Entrepreneur
+<h1 align="center">
+👋 Hi, I'm Jules Mercado
+</h1>
 
-I build AI-powered products that solve real-world problems.
+<h3 align="center">
+AI Product Engineer • Full-Stack Developer • Entrepreneur
+</h3>
 
-Over the past year I've been designing, building, and deploying production AI applications using modern LLMs, automation frameworks, and cloud infrastructure. I enjoy taking an idea from concept to a working product and continuously improving it through real user feedback.
+<p align="center">
+I build AI products from concept to production—combining LLMs, automation, and modern web technologies to create tools people actually use.
+</p>
+
+<p align="center">
+<a href="https://github.com/mercadojules-hash">
+<img src="https://img.shields.io/badge/GitHub-mercadojules--hash-181717?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Who I Am
 
-### 🎨 MixtapePSD AI Studio
-An AI-powered creative platform for designers featuring:
+I enjoy taking ambitious ideas from concept to production, transforming them into practical AI products that solve real-world problems.
 
-- Motion Studio
-- Image generation
+Over the past year I've designed, built, and deployed AI-powered applications using large language models, automation frameworks, cloud infrastructure, and modern web technologies. I enjoy taking products from concept to deployment, continuously improving them through real-world testing and user feedback.
+
+I'm especially interested in building software that empowers creators, automates repetitive work, and makes AI more useful and accessible.
+
+---
+
+# 🚀 Featured Projects
+
+## 🎨 MixtapePSD AI Studio
+
+An AI-powered creative platform built to help designers create professional promotional artwork, marketing assets, and animated content.
+
+### Highlights
+
+- AI Image Generation
+- Motion Studio (Runway Integration)
 - AI Creative Director
-- Marketing automation
-- Asset management
-- Stripe subscriptions
-- Production deployment
+- Marketing Content Generation
+- Asset Management
+- Subscription Platform
+- Production Cloud Deployment
 
-**Tech**
-Next.js • React • TypeScript • PostgreSQL • Clerk • Stripe • Runway • OpenAI • Anthropic
+**Technology**
 
----
-
-### 🤖 Jarvis Executive AI
-
-An executive AI operating system focused on:
-
-- Multi-agent workflows
-- Knowledge management
-- AI assistants
-- Memory systems
-- Workflow automation
-- Executive dashboards
+Next.js • React • TypeScript • PostgreSQL • Clerk • Stripe • Runway • Claude • OpenAI
 
 ---
 
-### 📈 AI Trading Platform
+## 🤖 Jarvis Executive AI
 
-An automated trading platform built around AI decision making featuring:
+A multi-agent AI operating system focused on organizing knowledge, coordinating intelligent assistants, and automating executive workflows.
 
-- Live trading automation
-- Portfolio dashboards
+### Highlights
+
+- Multi-Agent Architecture
+- Knowledge Management
+- AI Memory System
+- Workflow Automation
+- Executive Dashboards
+- Retrieval-Augmented Generation (RAG)
+
+**Technology**
+
+TypeScript • React • PostgreSQL • REST APIs • OpenAI • Claude
+
+---
+
+## 📈 AI Trading Platform
+
+A production AI trading platform focused on automation, analytics, portfolio management, and intelligent decision support.
+
+### Highlights
+
+- Automated Trading
+- Portfolio Dashboard
+- Risk Management
 - Analytics
-- Risk management
-- Real-time monitoring
-- Production cloud deployment
+- Real-Time Monitoring
+- Production Deployment
+
+**Technology**
+
+TypeScript • React • PostgreSQL • REST APIs • Render
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technical Skills
+
+### Languages
 
 - TypeScript
 - JavaScript
+- SQL
+
+### Frontend
+
 - React
 - Next.js
+- HTML5
+- CSS3
+
+### Backend
+
 - Node.js
+- REST APIs
 - PostgreSQL
+
+### Cloud & Tools
+
 - Git
 - GitHub
-- REST APIs
+- Render
 - Stripe
 - Clerk
-- Render
-- Docker (learning)
+- Docker (Learning)
 
----
-
-## 🤖 AI Platforms
+### AI Platforms
 
 - Claude
 - OpenAI
@@ -79,23 +133,25 @@ An automated trading platform built around AI decision making featuring:
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - AI Agents
-- Production LLM Systems
+- Production LLM Applications
+- AI Evaluations
 - Prompt Engineering
-- AI Evaluation
 - Retrieval-Augmented Generation (RAG)
-- Scalable AI Architecture
+- Scalable AI Architectures
 
 ---
 
-## 🎯 Current Goal
+# 🎯 Current Mission
 
-Build AI products that help creators and businesses work faster while continually expanding my expertise in production AI systems.
+Build AI-powered products that help creators and businesses work faster by combining modern language models, automation, and thoughtful user experiences.
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 - GitHub: https://github.com/mercadojules-hash
+- Portfolio Website: Coming Soon
+- Currently building: MixtapePSD AI Studio, Jarvis Executive AI, and AI-powered automation tools.
